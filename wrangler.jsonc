@@ -1,0 +1,7 @@
+{
+    "name": "justfund-elite",
+    "compatibility_date": "2024-12-23",
+    "assets": {
+        "directory": "./dist"
+    }
+}
